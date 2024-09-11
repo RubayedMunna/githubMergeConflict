@@ -1,10 +1,6 @@
 Hello this is Rubayed All Islam.
 
 
-I'm working on branch 1.
-
-Hello I've made some mistakes. so I'm trying to create merge conflict again.
-
 I'm working on branch 2.
 
 How are you?
